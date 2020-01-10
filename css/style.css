@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;}
+html,
+body {
+    font-size: 12px;
+   }
+* html .common,
+* body .common {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    /* background-color:#ddd;*/
+}
+.common .head{
+	width: 100%;
+    height: 10%;
+    padding: 1.5rem;
+    font-size: 1.1rem;
+    text-align: center;
+    background-color: #10D99F;
+    color: #fff;
+    box-sizing: border-box;
+    display:flex;
+    }
+
+
+
+
